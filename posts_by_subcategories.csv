@@ -1,0 +1,113 @@
+,cat,subcat,slug,cor,posts
+0,Mobile,Multiplataforma,multiplataforma,#ffba05,22
+1,Mobile,Flutter,flutter-mobile,#ffba05,2
+2,Mobile,Android,android,#ffba05,5
+3,Mobile,iOS,ios,#ffba05,11
+4,Mobile,Jogos,jogos,#ffba05,3
+5,Programação,Lógica de programação,logica-de-programacao,#00c86f,51
+6,Programação,Python,python,#00c86f,49
+7,Programação,Node.JS,node-js,#00c86f,88
+8,Programação,Python web,python-web,#00c86f,74
+9,Programação,Java para Web,java-para-web,#00c86f,180
+10,Programação,Java,java,#00c86f,18
+11,Programação,Java e persistência,java-e-persistencia,#00c86f,35
+12,Programação,Java API,java-api,#00c86f,143
+13,Programação,Kotlin,kotlin,#00c86f,8
+14,Programação,Testes em Java,testes-em-java,#00c86f,38
+15,Programação,Boas práticas em Java,boas-praticas-em-java,#00c86f,14
+16,Programação,Certificação Java,certificacao-java,#00c86f,1
+17,Programação,C#,csharp,#00c86f,89
+18,Programação,.NET para web,dotnet-para-web,#00c86f,86
+19,Programação,Persistência com .NET,persistencia-com-net,#00c86f,28
+20,Programação,.NET API,net-api,#00c86f,33
+21,Programação,Testes em C#,testes-em-csharp,#00c86f,31
+22,Programação,Boas práticas em C#,boas-praticas-csharp,#00c86f,11
+23,Programação,Certificação C#,certificacao-csharp,#00c86f,43
+24,Programação,VB.NET,vb-net,#00c86f,38
+25,Programação,PHP,php,#00c86f,38
+26,Programação,PHP para web,php-web,#00c86f,50
+27,Programação,Persistência em PHP,php-persistencia,#00c86f,6
+28,Programação,PHP API,php-api,#00c86f,5
+29,Programação,Boas práticas em PHP,boas-praticas-em-php,#00c86f,7
+30,Programação,Desenvolvimento de jogos,desenvolvimento-de-jogos,#00c86f,113
+31,Programação,Clojure,clojure,#00c86f,19
+32,Programação,GoLang,golang,#00c86f,8
+33,Programação,Linguagem C e C++,linguagem-c,#00c86f,37
+34,Programação,Computação,computacao,#00c86f,68
+35,Programação,Cobol e ABAP,cobol,#00c86f,28
+36,Programação,Ruby,ruby,#00c86f,16
+37,Programação,Ruby on Rails,ruby-on-rails,#00c86f,9
+38,Front-end,HTML e CSS,html-css,#6bd1ff,14
+39,Front-end,React,reactjs,#6bd1ff,7
+40,Front-end,Angular,angular,#6bd1ff,5
+41,Front-end,JavaScript,javascript,#6bd1ff,22
+42,Front-end,Frameworks MVC,frameworks-mvc-em-javascript,#6bd1ff,2
+43,Front-end,Automação e Performance,automacao-front-end,#6bd1ff,0
+44,Front-end,jQuery,jquery,#6bd1ff,0
+45,Front-end,WordPress,wordpress,#6bd1ff,16
+46,DevOps,Linux,linux-comandos-e-processos,#f16165,11
+47,DevOps,Google Cloud Platform,google-cloud-platform,#f16165,37
+48,DevOps,Segurança,seguranca,#f16165,18
+49,DevOps,Containers,containers,#f16165,15
+50,DevOps,Infraestrutura como Código,infraestrutura-como-codigo,#f16165,11
+51,DevOps,Builds e Controle de versão,build-e-versionamento,#f16165,8
+52,DevOps,Cloud Computing,cloud-computing,#f16165,133
+53,DevOps,Entrega Contínua,entrega-continua,#f16165,43
+54,DevOps,Mensageria/Streams,mensageria-streams,#f16165,35
+55,DevOps,Internet das coisas,internet-das-coisas,#f16165,12
+56,DevOps,Embarcados e Robótica,embarcados,#f16165,9
+57,DevOps,Redes,redes,#f16165,29
+58,DevOps,CCNA exame 100-105,ccna-exame-100-105,#f16165,15
+59,DevOps,Windows,windows,#f16165,14
+60,UX & Design,UI - User Interface,user-interface,#dc6ebe,13
+61,UX & Design,UX - User Experience,ux,#dc6ebe,25
+62,UX & Design,Design Gráfico,design-grafico,#dc6ebe,20
+63,UX & Design,Edição de Vídeo,edicao-video,#dc6ebe,15
+64,UX & Design,3D,3d,#dc6ebe,11
+65,UX & Design,Motion Design,motion,#dc6ebe,11
+66,UX & Design,Design de Jogos,design-de-jogos,#dc6ebe,4
+67,UX & Design,Design de Ilustração,design-ilustracao,#dc6ebe,2
+68,UX & Design,Pintura Digital,pintura-digital,#dc6ebe,6
+69,UX & Design,Fotografia,fotografia,#dc6ebe,6
+70,UX & Design,Produção e Pós-produção de Áudio,producao-de-audio,#dc6ebe,12
+71,Data Science,SQL e Banco de Dados,sql,#9cd33b,11
+72,Data Science,Engenharia de Dados,engenharia-de-dados,#9cd33b,0
+73,Data Science,Data Science,data-science,#9cd33b,161
+74,Data Science,Data Visualization,data-visualization,#9cd33b,0
+75,Data Science,Machine Learning,machine-learning,#9cd33b,183
+76,Data Science,Excel,excel,#9cd33b,26
+77,Data Science,Business Intelligence,business-intelligence,#9cd33b,6
+78,Data Science,NoSQL,nosql,#9cd33b,16
+79,Data Science,Matemática,matematica,#9cd33b,1
+80,Data Science,Estatística,estatistica,#9cd33b,70
+81,Inovação & Gestão,Métodos Ágeis,metodos-ageis,#ff8c2a,67
+82,Inovação & Gestão,Marketing,marketing,#ff8c2a,28
+83,Inovação & Gestão,SEO,seo,#ff8c2a,33
+84,Inovação & Gestão,Mídia Paga,midia-paga,#ff8c2a,11
+85,Inovação & Gestão,Conteúdo,conteudo,#ff8c2a,9
+86,Inovação & Gestão,Gestão Estratégica,gestao-estrategica,#ff8c2a,30
+87,Inovação & Gestão,Gestão Ágil,gestao-agil,#ff8c2a,27
+88,Inovação & Gestão,Marketing Analytics,marketing-analytics,#ff8c2a,26
+89,Inovação & Gestão,Social Media,social-media,#ff8c2a,10
+90,Inovação & Gestão,YouTube,youtube,#ff8c2a,1
+91,Inovação & Gestão,Transformação Ágil,transformacao-agil,#ff8c2a,25
+92,Inovação & Gestão,Negociação e Comunicação,negociacao-comunicacao,#ff8c2a,14
+93,Inovação & Gestão,Produtividade e Qualidade de Vida,produtividade-qualidade-vida,#ff8c2a,13
+94,Inovação & Gestão,Governança Organizacional,governanca-organizacional,#ff8c2a,4
+95,Inovação & Gestão,E-commerce,e-commerce,#ff8c2a,28
+96,Inovação & Gestão,Gestão da Qualidade,gestao-qualidade,#ff8c2a,12
+97,Inovação & Gestão,Liderança e Gestão de Equipes,lideranca-gestao-equipes,#ff8c2a,20
+98,Inovação & Gestão,Habilidades Interpessoais,habilidades-interpessoais,#ff8c2a,9
+99,Inovação & Gestão,Ferramentas de Apoio à Gestão,ferramentas-apoio-gestao,#ff8c2a,26
+100,Inovação & Gestão,Certificação PMP e CAPM,certificacao-pmp-capm,#ff8c2a,21
+101,Inovação & Gestão,Certificação ITIL Foundation v3,certificacao-itil-foundation,#ff8c2a,20
+102,Inovação & Gestão,Certificação ITIL Foundation 4,certificacao-itil-foudation-4,#ff8c2a,0
+103,Inovação & Gestão,COBIT 5 Foundations,cobit-5-foundations,#ff8c2a,3
+104,Inovação & Gestão,Modelagem e Processos de Negócios,modelagem-processos-negocios,#ff8c2a,26
+105,Inovação & Gestão,Gestão de Produtos,gestao-de-produtos,#ff8c2a,19
+106,Inovação & Gestão,Startups e Empreendedorismo,startup-empreendedorismo,#ff8c2a,15
+107,Inovação & Gestão,Vendas,vendas,#ff8c2a,22
+108,Inovação & Gestão,Práticas de Gestão - Waterfall & Híbridas,praticas-gestao-waterfall-hibridas,#ff8c2a,2
+109,Inovação & Gestão,Marketing Pessoal,marketing-pessoal,#ff8c2a,14
+110,Inovação & Gestão,Conformidade Legal,conformidade-legal,#ff8c2a,0
+111,Inovação & Gestão,Certificações ANBIMA,certificacoes-anbima,#ff8c2a,15
